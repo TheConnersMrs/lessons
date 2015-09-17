@@ -3,17 +3,14 @@ layout: default
 title: GCSE ICT CAB Act 1 Investigation
 tags: [GCSE, ICT, Animal Shelter, FetchExecute]
 walt:
-- decide: 
-    - the name of the shelter
-    - the type of animal(s) that the shelter will care for
-- conduct research to find out: 
-    - the cost per year for each of your animal(s) of: 
-        - food
-        - medical requirements e.g. vaccinations
-        - other requirements e.g. bedding
+- decide the name of the shelter
+- decide the type of animal(s) that the shelter will care for
+- conduct research to find out; the cost per year for each of your animal(s) of: 
+- food
+- medical requirements e.g. vaccinations
+- other requirements e.g. bedding
 - any rules and/or regulations relating to your animal(s)
 - the cost per year for staff.
-
 keywords:
 - keyword here
 - and here ....
