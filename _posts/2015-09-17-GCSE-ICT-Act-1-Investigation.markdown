@@ -29,7 +29,4 @@ wilf_3_bullets:
 - Describe the component devices use to communicate
 - Describe the Fetch Execute cycle in terms of hardware components
 ---
-
 This is some extra content
-
-
