@@ -1,12 +1,13 @@
 ---
 layout: default
-title: HCTEST
+title: GCSE ICT Act 1 Investigation
 tags: [GCSE,FetchExecute]
 walt:
-- Identify and *describe* components in a Computer
-- Identify and describe the functions of a CPU
-- Identify and describe how components communicate
-- Describe the Fetch/Execute cycle, in terms of hardware components
+- decide the name of the shelter
+- the type of animal(s) that the shelter will care for
+- conduct research to find out the cost per year for each of your animal(s) for food, medical requirements e.g. vaccinations, other requirements e.g. bedding
+- any rules and/or regulations relating to your animal(s)
+- the cost per year for staff.
 keywords:
 - keyword here
 - and here ....
