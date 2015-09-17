@@ -5,7 +5,7 @@ tags: [GCSE, ICT, Animal Shelter, FetchExecute]
 walt:
 - decide the name of the shelter
 - decide the type of animal(s) that the shelter will care for
-- conduct research to find out; the cost per year for each of your animal(s) of: 
+- conduct research to find out; the cost per year for each of your animal(s) of
 - food
 - medical requirements e.g. vaccinations
 - other requirements e.g. bedding
