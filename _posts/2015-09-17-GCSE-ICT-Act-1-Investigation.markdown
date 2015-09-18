@@ -9,23 +9,19 @@ walt:
 - any rules and/or regulations relating to your animal(s)
 - the cost per year for staff.
 keywords:
-- keyword here
-- and here ....
-wilf_1_levels: E - D
-wilf_1_bullets:
-- List the main components of a computer
-- Describe the function of some
-wilf_2_levels: C
+- Investigation
+- Naming
+- Requirements
+- Needs
+wilf_1_levels: 
+wilf_1_bullets: 1-4 Marks
+- The student has developed the specified digital products, with some use of appropriate content. They have carried out a limited review of their work but with few modifications. 
+wilf_2_levels: 5-8 Marks
 wilf_2_bullets:
-- Describe the main function of each of the primary components of a computer
-- Identify the component devices use to communicate
-- Describe the Fetch Execute cycle
-wilf_3_levels: B - A
+- The student has developed the specified digital products, using appropriate content and features. They have reviewed their work and made modifications some of which are effective. 
+wilf_3_levels: 9-12 Marks
 wilf_3_bullets:
-- Describe the functions of all of the components of a computer
-- Describe the component devices use to communicate
-- Describe the Fetch Execute cycle in terms of hardware components
+- The student has developed the specified digital products, using appropriate content and features effectively. They have reviewed and modified their work throughout its development, using feedback from others to improve the outcomes.
 ---
 
 This is some extra content
-
