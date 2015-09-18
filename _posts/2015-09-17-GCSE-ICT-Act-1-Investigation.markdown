@@ -10,16 +10,15 @@ walt:
 - the cost per year for staff.
 keywords:
 - Investigation
-- Naming
 - Requirements
 - Needs
 wilf_1_levels: 
-wilf_1_bullets: 1-4 Marks
+wilf_1_bullets: 1 to 4 Marks
 - The student has developed the specified digital products, with some use of appropriate content. They have carried out a limited review of their work but with few modifications. 
-wilf_2_levels: 5-8 Marks
+wilf_2_levels: 5 to 8 Marks
 wilf_2_bullets:
 - The student has developed the specified digital products, using appropriate content and features. They have reviewed their work and made modifications some of which are effective. 
-wilf_3_levels: 9-12 Marks
+wilf_3_levels: 9 to 12 Marks
 wilf_3_bullets:
 - The student has developed the specified digital products, using appropriate content and features effectively. They have reviewed and modified their work throughout its development, using feedback from others to improve the outcomes.
 ---
