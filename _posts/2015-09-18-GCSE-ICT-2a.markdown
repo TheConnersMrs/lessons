@@ -3,7 +3,7 @@ layout: default
 title: GCSE-ICT-Act-2a-Spreadsheet-Model
 tags: [GCSE,ICT,Animal Shelter,FetchExecute]
 walt:
-- You need to create a model of the shelter's finances in its first year
+- You need to create a model of the shelters finances in its first year
 keywords:
 - Formula
 - VLookups
