@@ -24,4 +24,3 @@ wilf_3_bullets:
 - The student has developed the specified digital products, using appropriate content and features effectively. They have reviewed and modified their work throughout its development, using feedback from others to improve the outcomes.
 ---
 
-This is some extra content
