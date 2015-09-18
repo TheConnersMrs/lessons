@@ -1,7 +1,7 @@
 ---
 layout: default
 title: GCSE ICT Act 1 Investigation
-tags: [GCSE,FetchExecute]
+tags: [GCSE,ICT,Animal Shelter,FetchExecute]
 walt:
 - decide the name of the shelter
 - the type of animal(s) that the shelter will care for
