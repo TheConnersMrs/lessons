@@ -7,6 +7,7 @@ walt:
 - Identify and describe the functions of a CPU
 - Identify and describe how components communicate
 - Describe the Fetch/Execute cycle, in terms of hardware components
+- new item
 keywords:
 - keyword here
 - and here ....
