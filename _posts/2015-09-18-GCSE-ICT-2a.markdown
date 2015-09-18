@@ -20,6 +20,6 @@ wilf_2_bullets:
 - The student has selected relevant data and developed a spreadsheet model that generates meaningful information. Testing has been carried out, but not all of it was effective.
 wilf_3_levels: 9 to 12 Marks
 wilf_3_bullets:
-- The student has developed the specified digital products, using appropriate content and features effectively. They have reviewed and modified their work throughout its development, using feedback from others to improve the outcomes
+- The student has selected relevant data, developed a complex spreadsheet model that generates sufficient reliable and meaningful information to fully inform the decision-making process. Effective testing has been carried out.
 ---
 This is some extra content
