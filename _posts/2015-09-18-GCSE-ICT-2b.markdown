@@ -4,6 +4,8 @@ title: GCSE-ICT-Act-2b-Investigation
 tags: [GCSE,ICT,Animal Shelter,FetchExecute]
 walt:
 - Create a written report that shows how the shelter could operate on grants of £300,000 and £500,000. They do not want a presentation.
+- You need to create a digital poster that will be displayed in the reception area of the shelter. The digital poster will aim to persuade people to volunteer at the shelter.
+
 keywords:
 - Layout
 - Recommendations
