@@ -4,9 +4,9 @@ title: GCSE ICT Act 1 Investigation
 tags: [GCSE,ICT,Animal Shelter,FetchExecute]
 walt:
 - decide the name of the shelter
-- the type of animal(s) that the shelter will care for
-- conduct research to find out the cost per year for each of your animal(s) for food, medical requirements e.g. vaccinations, other requirements e.g. bedding
-- any rules and/or regulations relating to your animal(s)
+- the type of animal or animals that the shelter will care for
+- conduct research to find out the cost per year for each of your animals for food, medical requirements e.g. vaccinations, other requirements e.g. bedding
+- any rules and,or regulations relating to your animals
 - the cost per year for staff.
 keywords:
 - Investigation
