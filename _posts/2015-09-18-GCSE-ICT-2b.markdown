@@ -3,18 +3,15 @@ layout: default
 title: GCSE-ICT-Act-2b-Investigation
 tags: [GCSE,ICT,Animal Shelter,FetchExecute]
 walt:
-- You need to create a model of the shelter's finances in its first year
+- Create a written report that shows how the shelter could operate on grants of £300,000 and £500,000. They do not want a presentation.
 keywords:
-- Formula
-- Vlookup
-- Sum
-- Average
-- If Statements
-- CountA
-- CountIf
+- Layout
+- Recommendations
+- Justification
+- Review
 wilf_1_levels: 1 to 4 Marks
 wilf_1_bullets: 
-- The student has gathered some relevant data and developed a simple spreadsheet model that generates some meaningful information. They have carried out limited testing, but with little effect.
+- The student has developed the specified outcomes, with some use of appropriate content. They have used results from their model to make recommendations, some of which are sensible. They have carried out a limited review of their work but with few modifications.
 wilf_2_levels: 5 to 8 Marks
 wilf_2_bullets:
 - The student has selected relevant data and developed a spreadsheet model that generates meaningful information. Testing has been carried out, but not all of it was effective.
