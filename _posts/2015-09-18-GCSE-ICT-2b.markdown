@@ -14,9 +14,9 @@ wilf_1_bullets:
 - The student has developed the specified outcomes, with some use of appropriate content. They have used results from their model to make recommendations, some of which are sensible. They have carried out a limited review of their work but with few modifications.
 wilf_2_levels: 5 to 8 Marks
 wilf_2_bullets:
-- The student has selected relevant data and developed a spreadsheet model that generates meaningful information. Testing has been carried out, but not all of it was effective.
+- The student has developed the specified outcomes, using appropriate content and features. They have used their model to consider alternatives and present sensible recommendations. They have reviewed their work and made modifications some of which are effective.
 wilf_3_levels: 9 to 12 Marks
 wilf_3_bullets:
-- The student has selected relevant data, developed a complex spreadsheet model that generates sufficient reliable and meaningful information to fully inform the decision-making process. Effective testing has been carried out.
+- The student has developed the specified outcomes, using effective content and features. They have used their model to consider feasible alternatives and present well-reasoned recommendations. They have reviewed and modified their work throughout its development, using feedback from others to improve the outcomes.
 ---
 This is some extra content
