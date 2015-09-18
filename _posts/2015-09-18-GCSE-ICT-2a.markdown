@@ -5,9 +5,13 @@ tags: [GCSE,ICT,Animal Shelter,FetchExecute]
 walt:
 - You need to create a model of the shelter's finances in its first year
 keywords:
-- Investigation
-- Requirements
-- Needs
+- Formula
+- Vlookup
+- Sum
+- Average
+- If Statements
+- CountA
+- CountIf
 wilf_1_levels: 1 to 4 Marks
 wilf_1_bullets: 
 - The student has developed the specified digital products, with some use of appropriate content. They have carried out a limited review of their work but with few modifications
