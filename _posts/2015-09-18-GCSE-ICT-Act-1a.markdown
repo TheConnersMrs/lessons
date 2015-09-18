@@ -12,8 +12,8 @@ keywords:
 - Investigation
 - Requirements
 - Needs
-wilf_1_levels: 
-wilf_1_bullets: 1 to 4 Marks
+wilf_1_levels: 1 to 4 Marks
+wilf_1_bullets: 
 - The student has developed the specified digital products, with some use of appropriate content. They have carried out a limited review of their work but with few modifications
 wilf_2_levels: 5 to 8 Marks
 wilf_2_bullets:
