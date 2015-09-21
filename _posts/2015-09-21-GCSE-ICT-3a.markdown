@@ -5,7 +5,7 @@ tags: [GCSE,ICT,Animal Shelter,FetchExecute]
 walt:
 - The shelter may need additional funding in order to stay open in future years.
 - You need to create a video advert that persuades people to sponsor an animal.
-- The advert should:
+- The advert should meet the following requirements
 - include the shelter name and logo
 - include a voice over that you have written
 - last between 45 and 60 seconds
