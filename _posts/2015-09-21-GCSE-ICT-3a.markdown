@@ -7,7 +7,7 @@ walt:
 - You need to create a video advert that persuades people to sponsor an animal.
 - The advert should:
 - include the shelter name and logo
-- include a voice-over that you have written
+- include a voice over that you have written
 - last between 45 and 60 seconds
 - persuade the audience to sponsor an animal.
 - You could also include a soundtrack.
