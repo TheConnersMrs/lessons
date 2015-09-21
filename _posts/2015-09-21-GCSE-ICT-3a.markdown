@@ -10,7 +10,7 @@ walt:
 - include a voice-over that you have written
 - last between 45 and 60 seconds
 - persuade the audience to sponsor an animal.
-You could also include a soundtrack.
+- You could also include a soundtrack.
 keywords:
 - File types
 - Target audience
