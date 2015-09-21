@@ -1,0 +1,31 @@
+---
+layout: default
+title: GCSE-ICT-Act-3a
+tags: [GCSE,ICT,Animal Shelter,FetchExecute]
+walt:
+- The shelter may need additional funding in order to stay open in future years.
+- You need to create a video advert that persuades people to sponsor an animal.
+- The advert should:
+- include the shelter name and logo
+- include a voice-over that you have written
+- last between 45 and 60 seconds
+- persuade the audience to sponsor an animal.
+You could also include a soundtrack.
+keywords:
+- File types
+- Target audience
+- Soundtrack
+wilf_1_levels: 1 to 4 Marks
+wilf_1_bullets: 
+- The student has used design tools to give some indication of what each screen will be like. 
+- They have commented on some of their design decisions.
+wilf_2_levels: 5 to 8 Marks
+wilf_2_bullets:
+- The student has used design tools to show what each screen will be like, and how they are linked together. 
+- They have commented on important design decisions.
+wilf_3_levels: 9 to 12 Marks
+wilf_3_bullets:
+- The student has used design tools to clearly show what each screen will be like and pathways through the product. 
+- They have commented on and justified important design decisions.
+---
+This is some extra content
