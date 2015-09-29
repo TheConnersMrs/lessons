@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GCSE-ICT-Act-2b-Investigation
+title: GCSE ICT Act 2b
 tags: [GCSE,ICT,Animal Shelter,FetchExecute]
 walt:
 - Create a written report that shows how the shelter could operate on grants of £300,000 and £500,000. They do not want a presentation.
