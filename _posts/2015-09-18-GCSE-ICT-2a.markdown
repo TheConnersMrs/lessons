@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GCSE-ICT-Act-2a-Investigation
+title: GCSE ICT Act 2a
 tags: [GCSE,ICT,Animal Shelter,FetchExecute]
 walt:
 - You need to create a model of the shelter's finances in its first year
