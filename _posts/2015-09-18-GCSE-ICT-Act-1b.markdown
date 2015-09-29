@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GCSE-ICT-Act-1b-Investigation
+title: GCSE ICT Act 1b
 tags: [GCSE,ICT,Animal Shelter,FetchExecute]
 walt:
 - decide the name of the shelter
