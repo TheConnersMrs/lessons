@@ -11,21 +11,27 @@ walt:
 - last between 45 and 60 seconds
 - persuade the audience to sponsor an animal.
 - You could also include a soundtrack.
+- You must design and build this website, the website must include the following
+- a homepage that contains information on the animals the shelter cares for
+- a giving page that contains information about donating, with a link to your video advert
+- a volunteer page providing information on volunteering, with a link to your digital poster.
 keywords:
 - File types
 - Target audience
 - Soundtrack
 wilf_1_levels: 1 to 4 Marks
 wilf_1_bullets: 
-- The student has used design tools to give some indication of what each screen will be like. 
-- They have commented on some of their design decisions.
+- The student has developed the specified outcomes, with some use of appropriate content. 
+- The interactive product has limited user control. The student has carried out a limited review of their work, but with few modifications.
 wilf_2_levels: 5 to 8 Marks
 wilf_2_bullets:
-- The student has used design tools to show what each screen will be like, and how they are linked together. 
-- They have commented on important design decisions.
+- The student has developed the specified outcomes, using appropriate content and features. 
+- The interactive product has a functional user interface and control. 
+- The student has reviewed their work and made modifications some of which are effective.
 wilf_3_levels: 9 to 12 Marks
 wilf_3_bullets:
-- The student has used design tools to clearly show what each screen will be like and pathways through the product. 
-- They have commented on and justified important design decisions.
+- The student has developed the specified outcomes, using appropriate content and features effectively. 
+- The interactive product has an effective user interface and control. 
+- The student has reviewed and modified their work throughout its development, using feedback from others to improve the outcomes.
 ---
 This is some extra content
