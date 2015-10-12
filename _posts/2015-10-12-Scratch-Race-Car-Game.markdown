@@ -5,6 +5,8 @@ tags: Scratch
 walt:
 - Use multiple programmes to complete a project
 - Design and programme our own racing game
+Keywords:
+Scratch
 wilf_1_levels: D and Below
 wilf_1_bullets:
 - Car created and basic background
