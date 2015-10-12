@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Scratch Racing Car Game
-tags: [GCSE,FetchExecute]
+tags: [Scratct,FetchExecute]
 walt:
 - Use multiple programmes to complete a task
 - Design elelments of a Scratch Game
