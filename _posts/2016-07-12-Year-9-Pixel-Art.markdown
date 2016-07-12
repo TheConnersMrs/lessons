@@ -3,24 +3,22 @@ layout: default
 title: Year 9 Pixel Art
 tags: GCSE FetchExecute
 walt:
-- Identify and *describe* components in a Computer
-- Identify and describe the functions of a CPU
-- Identify and describe how components communicate
-- Describe the Fetch/Execute cycle, in terms of hardware components
-wilf_1_levels: E - D
+- Create representations in limited space
+wilf_1_levels: 1 - 3
 wilf_1_bullets:
-- List the main components of a computer
-- Describe the function of some
-wilf_2_levels: C
+- Less than 4 frames
+- Limited accuracy
+- Limited editting
+wilf_2_levels: 4 - 6
 wilf_2_bullets:
-- Describe the main function of each of the primary components of a computer
-- Identify the component devices use to communicate
-- Describe the Fetch Execute cycle
-wilf_3_levels: B - A
+- 4 frames and good environment tiles
+- Good accuracy
+- Shading
+wilf_3_levels: 7 - 9
 wilf_3_bullets:
-- Describe the functions of all of the components of a computer
-- Describe the component devices use to communicate
-- Describe the Fetch Execute cycle in terms of hardware components
+- 4 frames and clear, imaginative environment tiles
+- Peer and self evaluated with improvements made
+- Documentation completed
 ---
 
 This is some extra content
