@@ -92,6 +92,11 @@ section#walt ul, section#wilf ul
     padding:2%;
 }
 
+section ul p
+{
+	display:inline-block;
+}
+
 section#walt ul
 {
     margin-bottom:4%;
