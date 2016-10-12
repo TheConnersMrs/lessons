@@ -10,19 +10,19 @@ keywords:
 - Network
 - Search Engine
 - Infographic
-wilf_1_levels: 1
+wilf_1_levels: 4
 wilf_1_bullets:
 - Create a new image 1024 X 768
 - Use text & shape tools
 - Include a represenation of some of the planets
 - WWWs, EBI and SL Completed
-wilf_2_levels: 2
+wilf_2_levels: 5
 wilf_2_bullets:
 - Create a new image 1024 x 768 with title & labels
 - Include a representation of each planet in order
 - Include some extra relevant information
 - WWWs, EBI and SL Completed
-wilf_3_levels: 3
+wilf_3_levels: 6
 wilf_3_bullets:
 - Create a new image 1024 x 768 with title & labels
 - Use text & shapes to create a design
