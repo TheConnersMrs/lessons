@@ -14,11 +14,14 @@ wilf_2_bullets:
 - 4 frames and good environment tiles
 - Good accuracy
 - Shading
+- Documentation completed for all sections
+- Documentation shows a reflective worker
 wilf_3_levels: 7 - 9
 wilf_3_bullets:
 - 4 frames and clear, imaginative environment tiles
 - Peer and self evaluated with improvements made
 - Documentation completed
+- Documentation shows a reflective worker and one that returns to work to make the relevant improvements
 ---
 
 This is some extra content
