@@ -19,6 +19,7 @@ wilf_3_bullets:
 - Use vlookup within the dashboard
 - Acknowledge that there are not always 4 weeks in each month
 - Show you have correctly calculated the markup percentage to all cakes
+- Detailed descriptions of all work undertaken and the improvements
 - Format your spreadsheet to make it easier to read
 ---
 
