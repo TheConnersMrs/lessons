@@ -10,12 +10,15 @@ wilf_1_bullets:
 - Use some simple formatting features
 wilf_2_levels: 4 - 6
 wilf_2_bullets:
-- Complete tasks 1-4
+- Complete tasks 1-4 including one vlookup
 - Use formatting features to make parts of your spreadsheet easier to read
 wilf_3_levels: 7 - 9
 wilf_3_bullets:
-- Complete tasks 1-4
-- Use vlookup() to include the cost of special ingredients
+- Complete all tasks
+- vlookup correctly calculates the cost per cake
+- Use vlookup within the dashboard
+- Acknowledge that there are not always 4 weeks in each month
+- Show you have correctly calculated the markup percentage to all cakes
 - Format your spreadsheet to make it easier to read
 ---
 
