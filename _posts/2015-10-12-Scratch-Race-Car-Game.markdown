@@ -13,17 +13,19 @@ keywords:
 - Sprites
 - Stage
 - Scripts
-wilf_1_levels: D and Below
+wilf_1_levels: Level 4
 wilf_1_bullets:
 - Car created
 - Basic background
-wilf_2_levels: C
+wilf_2_levels: 5
 wilf_2_bullets:
 - Good clear car imported into Scratch
+- Car programmed to be keyboard controlled
 - Clear imaginative Stage
-wilf_3_levels: B - A
+wilf_3_levels: 6
 wilf_3_bullets:
-- Programmed game
+- Programmed game with many if touching elements that affect the score
+- Game has two or more Sprites, each programmed
 - Game has scores
 - Game recognises where extra points can be gained and this is built into the programming.
 ---
