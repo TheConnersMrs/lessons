@@ -17,12 +17,12 @@ wilf_1_levels: Level 4
 wilf_1_bullets:
 - Car created
 - Basic background
-wilf_2_levels: 5
+wilf_2_levels: Level 5
 wilf_2_bullets:
 - Good clear car imported into Scratch
 - Car programmed to be keyboard controlled
 - Clear imaginative Stage
-wilf_3_levels: 6
+wilf_3_levels: Level 6
 wilf_3_bullets:
 - Programmed game with many if touching elements that affect the score
 - Game has two or more Sprites, each programmed
