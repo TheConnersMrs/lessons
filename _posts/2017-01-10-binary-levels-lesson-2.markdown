@@ -15,7 +15,7 @@ keywords:
 wilf_1_levels: Level 4
 wilf_1_bullets:
 - I can describe, in simple terms, what binary is and how it relates to computers
--I can list some types of information stored by computers (Integers, Text etc).
+- I can list some types of information stored by computers (Integers, Text etc).
 wilf_2_levels: Level 5
 wilf_2_bullets:
 - I can identify, with examples, some types of information stored by computers
